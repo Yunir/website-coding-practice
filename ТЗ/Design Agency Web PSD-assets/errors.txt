@@ -1,2 +1,0 @@
-[Mon Aug 01 2016 11:57:03 GMT+0500 (RTZ 4 (зима))] layer "+88 01812 346 789  |  027451234": Expected Either a default asset specification or a layer asset specification but "+" found.
-[Mon Aug 01 2016 11:57:20 GMT+0500 (RTZ 4 (зима))] layer "sibluhasan@gmail.com hello@address.com": Unsupported extension: com
